@@ -1,6 +1,4 @@
-package availableClasses;
-
-import java.math.*;
+package text_adventure.availableClasses;
 
 public class Warrior {
     public Warrior(int level)
